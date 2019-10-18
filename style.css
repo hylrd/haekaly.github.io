@@ -55,7 +55,7 @@
     width: 80%;
     height: 70%;
     top: 25%;
-    left: 130px;
+    left: 7%;
     position: absolute;
     color: white;
 }
@@ -85,9 +85,9 @@
 }
 
 .app-picture img{
-    width: 75%;
-    margin-top: -20px;
-    padding-left: 50px;   
+    width: 60%;
+    margin-top: 7%;
+    padding-left: 7%;   
 }
 
 .play-bnt{
